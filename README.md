@@ -13,14 +13,14 @@
 </p>
 
 <h2> Features 🔥 <h2>
-  - Unlimited Spam Count
-  - Media Spam Command
-  - Supports Imgs,Gifs,Videos and Stickers
-  - Powerful Virus Spams
-  - Stable and Powerful
-  - Easy Deploy
-  - Curses and Filters
-  - Filter On/Off option
+- Unlimited Spam Count
+- Media Spam Command
+- Supports Imgs,Gifs,Videos and Stickers
+- Powerful Virus Spams
+- Stable and Powerful
+- Easy Deploy
+- Curses and Filters
+- Filter On/Off option
 
 ## Deploy 🚀
 
