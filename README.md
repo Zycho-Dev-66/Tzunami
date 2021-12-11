@@ -36,3 +36,5 @@
 ## Deploy 🚀
 
 - Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zycho-Dev-66/Tzunami)
