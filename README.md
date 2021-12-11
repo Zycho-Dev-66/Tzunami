@@ -8,8 +8,4 @@
 
 <hr>
 
-<p align="center">
-
 [![Logo]()](https://t.me/Zyntax_chat_zone)
-
-</p>
