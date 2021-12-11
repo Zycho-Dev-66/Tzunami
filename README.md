@@ -18,7 +18,7 @@
   
 - Media Spam Command
   
-- Supports Imgs,Gifs,Videos and Stickers
+- Supports Imgs, Gifs, Videos and Stickers
   
 - Powerful Virus Spams
   
