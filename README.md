@@ -7,5 +7,6 @@
 ### A project by [Team Zyntax](https://t.me/Zyntax_chat_zone)
 
 <hr>
+
 [![Logo]()](https://t.me/Zyntax_chat_zone)
 
