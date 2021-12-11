@@ -8,4 +8,6 @@
 
 <hr>
 
-[![Logo]()](https://t.me/Zyntax_chat_zone)
+<p align="center">
+  <img src="https://telegra.ph/file/9daafeb39193a4a22ee5c.jpg" href="http://t.me/Zyntax_chat_zone">
+</p>
