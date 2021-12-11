@@ -38,3 +38,11 @@
 - Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zycho-Dev-66/Tzunami)
+
+- Generate String Session
+
+[![Run on Repl.it](https://repl.it/badge/github/Zycho-Dev-66/Tzunami)](https://replit.com/@ChankitSaini/GenerateStringSession)
+
+or
+
+Run the session.py locally
