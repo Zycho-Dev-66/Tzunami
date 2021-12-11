@@ -33,4 +33,4 @@
 
 ## Deploy 🚀
 
-### Deploy onto Heroku
+### Heroku
