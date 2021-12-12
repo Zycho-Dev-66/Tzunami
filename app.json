@@ -27,6 +27,11 @@
       "description": "Your name",
       "required": true
     },
+    "COMMAND_HANDLER": {
+      "description": "Don't remove the slash before the handler",
+      "required": true,
+      "value": "\."
+    },
     "ALIVE_PIC": {
       "description": "Set a custom pic for the alive module",
       "required": false
