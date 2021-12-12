@@ -1,14 +1,16 @@
 {
-    "name":"Tzunami Spambot",
-    "logo":"https://telegra.ph/file/050540d246273c5daaa94.jpg",
-    "description":"A Powerful Telethon Based Spambot With Powerful Virus Spams. Powered by Team Zyntax.",
-    "keywords":["spambot","telegram","zyntax"],
-    "repositary":"https://github.com/Zycho-Dev-66/Tzunami",
-    "stack":"container",
-    "buildpacks":{
-        "url":"heroku/python"
-    },
-    "env":{
+  "name": "Tzunami",
+  "logo": "https://telegra.ph/file/050540d246273c5daaa94.jpg",
+  "description": "A Powerful Telethon Based Spambot With Powerful Virus Spams. Powered by Team Zyntax.",
+  "keywords": ["telethon", "virus","spam", "telegram"],
+  "repository": "https://github.com/Zycho-Dev-66/Tzunami",
+  "stack": "container",
+  "buildpacks": [
+   {
+     "url": "heroku/python"
+   }   
+  ],
+  "env":{
         "API_ID":{
             "description":"Get the Api id from my.telegram.org",
             "required": true
