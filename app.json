@@ -28,9 +28,9 @@
       "required": true
     },
     "COMMAND_HANDLER": {
-      "description": "Don't remove the slash before the handler",
+      "description": "Set a back slash (\) before the handler",
       "required": true,
-      "value": "\."
+      "value": "."
     },
     "ALIVE_PIC": {
       "description": "Set a custom pic for the alive module",
