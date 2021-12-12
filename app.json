@@ -1,14 +1,11 @@
 {
-  "name": "DaisyXMusic",
-  "logo": "https://telegra.ph/file/8556d3d40980c6718e864.png",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
-  "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/TeamDaisyX/DaisyXMusic",
+  "name": "Tzunami",
+  "logo": "https://telegra.ph/file/050540d246273c5daaa94.jpg",
+  "description": "A Powerful Telethon Based Virus-Spambot.",
+  "keywords": ["virus", "spambot", "telegram"],
+  "repository": "https://github.com/Zycho-Dev-66/Tzunami",
   "stack": "container",
   "buildpacks": [
-   {
-     "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-   },
    {
      "url": "heroku/python"
    }   
