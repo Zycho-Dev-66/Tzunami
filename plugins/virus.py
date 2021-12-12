@@ -1,6 +1,5 @@
 from telethon import events
 from time import sleep
-from html_telegraph_poster.upload_images import upload_image
 import config as config
 import base.client as ub
 
