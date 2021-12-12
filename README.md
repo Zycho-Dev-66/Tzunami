@@ -32,6 +32,7 @@
   
 - Filter On/Off option
 
+<hr>
 
 ## Deploy 🚀
 
@@ -70,8 +71,7 @@ wget http://Zycho-Dev-66/Tzunami/session.py && python session.py
 
 ```sh
 
-pkg install wget -y
-pkg install python -y
+pkg install wget -y && pkg install python -y
 
 ```
 
@@ -84,3 +84,6 @@ pkg install python -y
 python3 app.py
 
 ```
+
+<hr>
+
