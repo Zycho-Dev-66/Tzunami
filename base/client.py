@@ -4,7 +4,6 @@ from telethon.sync import TelegramClient
 from telethon.sessions import StringSession
 from telethon import TelegramClient
 from time import sleep
-from html_telegraph_poster.upload_images import upload_image
 import config as config
 
 API_ID = config.API_ID
