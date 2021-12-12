@@ -24,7 +24,7 @@
         "COMMAND_HANDLER":{
             "description":"Do not remove the slash before the handler.",
             "required": true,
-            "value":"/."
+            "value":"\\."
         },
         "LOGGER_ID":{
             "description":"Create a private group add @MissRose_bot , send /id and paste the id here.",
