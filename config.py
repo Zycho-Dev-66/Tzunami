@@ -16,7 +16,11 @@ try:
     API_ID = getenv('API_ID')
     API_HASH = getenv('API_HASH')
     SESSION = getenv('SESSION')
-    COMMAND_HANDLER = getenv('COMMAND_HANDLER','\.')
+    Hndler = getenv('COMMAND_HANDLER','\\.')
+    if (Hndler[1] == "\\"):
+        COMMAND_HANDLER = Hndler[1:10]
+    else:
+        COMMAND_HANDLER = Hndler
     LOGGER_ID = getenv('LOGGER_ID')
     ALIVE_NAME = getenv('ALIVE_NAME')
     ALIVE_PIC = getenv('ALIVE_PIC')
