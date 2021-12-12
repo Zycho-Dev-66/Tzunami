@@ -24,7 +24,7 @@ try:
     client.start()
 
     # startup alert
-    # send media https://telegra.ph/file/004100edb7f9db357c40a.png
+    
     if LOGGER_ID != "":
         try:
             logger = client.get_entity(int(LOGGER_ID))
