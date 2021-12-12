@@ -33,12 +33,12 @@
         "ALIVE_NAME":{
             "description":"Set your profile name",
             "required": false,
-            "value":"Tzunami Spambot"
+            "value":"Tzunami"
         },
         "ALIVE_PIC":{
             "description":"Set a custom pic for alive module",
             "required": false,
-            "value":"https://telegra.ph/file/8556d3d40980c6718e864.png"
+            "value":"https://telegra.ph/file/050540d246273c5daaa94.jpg"
         },
         "FILTERS":{
             "description":"Custom filters. Change to disable.",
