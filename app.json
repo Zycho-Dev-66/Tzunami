@@ -1,0 +1,49 @@
+{
+    "name":"Tzunami Spambot",
+    "logo":"",
+    "description":"A Powerful Telethon based Spambot with Filters. Powered by Team Zyntax.",
+    "keywords":["spambot","telegram","zyntax"],
+    "repositary":"",
+    "stack":"container",
+    "buildpacks":{
+        "url":"heroku/python"
+    },
+    "env":{
+        "API_ID":{
+            "description":"Get the Api id from my.telegram.org",
+            "required": true
+        },
+        "API_HASH":{
+            "description":"Get the Api hash from my.telegram.org",
+            "required": true
+        },    
+        "SESSION":{
+            "description":"Get the telethon session from running session.py locally",
+            "required": true
+        },
+        "COMMAND_HANDLER":{
+            "description":"Do not remove the slash before the handler.",
+            "required": true,
+            "value":"\."
+        },
+        "LOGGER_ID":{
+            "description":"Create a private group add @MissRose_bot , send /id and paste the id here.",
+            "required": false
+        },
+        "ALIVE_NAME":{
+            "description":"Set your profile name",
+            "required": false,
+            "value":"Tzunami Spambot"
+        },
+        "ALIVE_PIC":{
+            "description":"Set a custom pic for alive module",
+            "required": false,
+            "value":"https://telegra.ph/file/8556d3d40980c6718e864.png"
+        },
+        "FILTERS":{
+            "description":"Custom filters. Change to disable.",
+            "required": false,
+            "value":"True"
+        }
+    }
+}

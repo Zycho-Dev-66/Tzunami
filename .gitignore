@@ -1,0 +1,5 @@
+.env
+*.log
+*.session
+.idea/
+__pycache__/

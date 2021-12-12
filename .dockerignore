@@ -1,0 +1,11 @@
+.env
+*.log
+.git/
+.idea/
+.gitignore
+session.py
+Procfile
+README.md
+requirements.txt
+runtime.txt
+__pycache__/
