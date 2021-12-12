@@ -1,9 +1,9 @@
 {
     "name":"Tzunami Spambot",
-    "logo":"",
+    "logo":"https://telegra.ph/file/050540d246273c5daaa94.jpg",
     "description":"A Powerful Telethon based Spambot with Filters. Powered by Team Zyntax.",
     "keywords":["spambot","telegram","zyntax"],
-    "repositary":"",
+    "repositary":"https://github.com/Zycho-Dev-66/Tzunami",
     "stack":"container",
     "buildpacks":{
         "url":"heroku/python"
