@@ -11,26 +11,34 @@
    }   
   ],        
   "env": {
-    "SESSION_NAME": {
-      "description": "Pyrogram session string",
-      "required": true
-    },
     "API_ID": {
-      "description": "App ID from my.telegram.org/apps",
+      "description": "Get the API ID from my.telegram.org/apps",
       "required": true
     },
     "API_HASH": {
-      "description": "App hash from my.telegram.org/apps",
+      "description": "Get the API Hash from my.telegram.org/apps",
+      "required": true
+    },
+    "SESSION": {
+      "description": "Get the telethon session from running session.py locally or run the https://replit.com/@ZychoDev/String-Session",
+      "required": true
+    },    
+    "ALIVE_NAME": {
+      "description": "Your name",
       "required": true
     },
     "ALIVE_PIC": {
-      "description": "List of user IDs counted as admin everywhere (separated by space).",
-      "required": true
+      "description": "Set a custom pic for the alive module",
+      "required": false
+    },
+    "FILTERS": {
+      "description": "Change to disable the auto chat filters",
+      "required": false,
+      "value": "True"
     },
     "LOGGER_ID": {
-      "description": "Max audio duration limit for downloads (minutes).",
-      "required": true,
-      "value": "10"
+      "description": "Create a private group add @MissRose_bot , send /id and paste the id here.",
+      "required": false
     }
   }
 }
