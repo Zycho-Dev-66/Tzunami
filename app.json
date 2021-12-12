@@ -5,9 +5,9 @@
     "keywords":["spambot","telegram","zyntax"],
     "repositary":"https://github.com/Zycho-Dev-66/Tzunami",
     "stack":"container",
-    "buildpacks":{
+    "buildpacks":[{
         "url":"heroku/python"
-    },
+    }],
     "env":{
         "API_ID":{
             "description":"Get the Api id from my.telegram.org",
