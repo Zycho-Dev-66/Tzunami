@@ -60,11 +60,17 @@ pkg install wget -y && pkg install python -y
 
 ```
 
+```sh
+
+wget http://raw.githubusercontent.com/Zycho-Dev-66/Tzunami/main/requirements.txt && pip install -U -r requirements.txt
+
+```
+
 Run the SessionGen
 
 ```sh
 
-git clone https://github.com/Zycho-Dev-66/Tzunami && cd Tzunami && pip install -U -r requirements.txt && python session.py
+wget http://raw.githubusercontent.com/Zycho-Dev-66/Tzunami/main/session.py && python session.py
 
 ```
 
