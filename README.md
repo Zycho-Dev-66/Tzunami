@@ -64,7 +64,7 @@ Run the SessionGen
 
 ```sh
 
-git clone https://github.com/Zycho-Dev-66/Tzunami && cd Tzunami && python session.py
+git clone https://github.com/Zycho-Dev-66/Tzunami && cd Tzunami && pip install -U -r requirements.txt && python session.py
 
 ```
 
